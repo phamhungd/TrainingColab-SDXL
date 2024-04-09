@@ -25,3 +25,5 @@ lion-pytorch==0.1.2
 lycoris-lora==1.8.1.dev3
 # for kohya_ss library
 -e .
+jax==0.4.20
+jaxlib==0.4.20

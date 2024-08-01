@@ -1,3 +1,4 @@
+tensorflow==2.15.1
 accelerate==0.19.0
 salesforce-lavis==1.0.0
 transformers==4.30.2
